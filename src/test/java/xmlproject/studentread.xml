@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student id="45">
+        <Name>naveen</Name>
+        <age>23</age>
+        <location>India</location>
+    </student>
+    <student id="15">
+        <Name>praveen</Name>
+        <age>25</age>
+        <location>Russia</location>
+    </student>
+    <student id="25">
+        <Name>ram</Name>
+        <age>30</age>
+        <location>USA</location>
+    </student>
+</students>
